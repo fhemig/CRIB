@@ -16,10 +16,11 @@
           },
           {
             "name": "ano",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Ano",
-            "description": "Ano referente ao dado"
+            "description": "Ano referente ao dado",
+            "groupChar": "."
           },
           {
             "name": "grau",
@@ -30,7 +31,7 @@
           },
           {
             "name": "escore",
-            "type": "integer",
+            "type": "string",
             "format": "default",
             "title": "Escore",
             "description": "Pontuação de gravidade do paciente"
@@ -40,26 +41,32 @@
             "type": "number",
             "format": "default",
             "title": "Predição de Óbito",
-            "description": "Taxa de predição de mortalidade"
+            "description": "Taxa de predição de mortalidade",
+            "decimalChar": ","
           },
           {
             "name": "saidas_rn",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Saídas",
-            "description": "Quantidade de saídas de recém nascido"
+            "description": "Quantidade de saídas de recém nascido",
+            "groupChar": "."
           },
           {
             "name": "obitos_ocorridos",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Óbitos Ocorridos",
-            "description": "Quantidade de óbitos ocorridos"
+            "description": "Quantidade de óbitos ocorridos",
+            "groupChar": "."
           },
           {
             "name": "obitos_esperados",
-            "type": "integer",
-            "format": "default"
+            "type": "number",
+            "format": "default",
+            "title": "Óbitos esperados",
+            "description": "Quantidade de óbitos esperados",
+            "decimalChar": ","
           }
         ]
-      }
+}
