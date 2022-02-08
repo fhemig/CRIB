@@ -25,7 +25,6 @@
       "title": "Maristela Guimarães Cáfaro Ferreira",
       "role": "author"
     }
-   
   ],
   "licenses": [
     {
@@ -33,6 +32,11 @@
       "title": "Creative Commons Attribution 4.0",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "ckan_hosts": {
+    "https://homologa.cge.mg.gov.br": {
+      "crib_2021": "c8ac69e9-5a02-4f6e-91fb-744a2f3712c2",
+      "datapackage.json": "1a2b746f-f586-4fe7-ae96-cf50617316ca"
+    }
+  }
 }
-
