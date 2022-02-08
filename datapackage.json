@@ -19,11 +19,13 @@
   "title": "CRIB 2021",
   "description": "CRIB 2021",
   "homepage": "https://github.com/fhemig",
+  "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
   "contributors": [
     {
       "title": "Maristela Guimarães Cáfaro Ferreira",
       "role": "author"
     }
+   
   ],
   "licenses": [
     {
