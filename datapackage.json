@@ -2,6 +2,36 @@
   "profile": "tabular-data-package",
   "resources": [
     {
+      "name": "crib_2018",
+      "path": "data/crib_2018.csv",
+      "profile": "tabular-data-resource",
+      "schema": "data/schema.json",
+      "title": "CRIB 2018",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "CRIB - Clinical Risk Index for Babies que é um score que mensura o risco da mortalidade hospitalar de Recém Nato prematuro (RNPT) com peso ao nascer menor ou igual a 1500g ou Idade Gestacional menor que 31 semanas baseado na gravidade clínica inicial deste Recém Nato."
+    },
+    {
+      "name": "crib_2019",
+      "path": "data/crib_2019.csv",
+      "profile": "tabular-data-resource",
+      "schema": "data/schema.json",
+      "title": "CRIB 2019",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "CRIB - Clinical Risk Index for Babies que é um score que mensura o risco da mortalidade hospitalar de Recém Nato prematuro (RNPT) com peso ao nascer menor ou igual a 1500g ou Idade Gestacional menor que 31 semanas baseado na gravidade clínica inicial deste Recém Nato."
+    },
+    {
+      "name": "crib_2020",
+      "path": "data/crib_2020.csv",
+      "profile": "tabular-data-resource",
+      "schema": "data/schema.json",
+      "title": "CRIB 2020",
+      "format": "csv",
+      "encoding": "UTF-8",
+      "description": "CRIB - Clinical Risk Index for Babies que é um score que mensura o risco da mortalidade hospitalar de Recém Nato prematuro (RNPT) com peso ao nascer menor ou igual a 1500g ou Idade Gestacional menor que 31 semanas baseado na gravidade clínica inicial deste Recém Nato."
+    },
+    {
       "name": "crib_2021",
       "path": "data/crib_2021.csv",
       "profile": "tabular-data-resource",
@@ -45,8 +75,9 @@
   ],
   "ckan_hosts": {
     "https://homologa.cge.mg.gov.br": {
-      "crib_2021": "c8ac69e9-5a02-4f6e-91fb-744a2f3712c2",
-      "datapackage.json": "1a2b746f-f586-4fe7-ae96-cf50617316ca"
+      "crib_2021": "a6cdb7c5-537b-4a44-9027-b873f25f27c3",
+      "crib_2022": "6f6a5a7c-af0b-437b-b4bb-0fd86162140c",
+      "datapackage.json": "bd22165d-5354-4264-8bc3-c98fd971edc8"
     }
   }
 }
