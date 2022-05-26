@@ -1,49 +1,65 @@
 unidade;mes;ano;grau;escore;predicao_obito;saidas_rn;obitos_ocorridos;obitos_esperados
-HJK;janeiro;2022;I;0 a 5;9,3;0;0;0
-HJK;janeiro;2022;II;6 a 10;55,9;1;0;0,56
-HJK;janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
-HJK;janeiro;2022;IV;> 15;100;0;0;0
-HJK;fevereiro;2022;I;0 a 5;9,3;1;0;0,09
-HJK;fevereiro;2022;II;6 a 10;55,9;2;0;1,12
-HJK;fevereiro;2022;III;11 a 5 ;73,1;0;0;0
-HJK;fevereiro;2022;IV;> 15;100;0;0;0
-HJK;março;2022;I;0 a 5;9,3;0;0;0
-HJK;março;2022;II;6 a 10;55,9;1;0;0,559
-HJK;março;2022;III;11 a 5 ;73,1;1;1;0,731
-HJK;março;2022;IV;> 15;100;0;0;0
-HRAD;janeiro;2022;I;0 a 5;9,3;8;1;0,74
-HRAD;janeiro;2022;II;6 a 10;55,9;3;1;1,68
-HRAD;janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
-HRAD;janeiro;2022;IV;> 15;100;0;0;0
-HRAD;fevereiro;2022;I;0 a 5;9,3;8;0;0,74
-HRAD;fevereiro;2022;II;6 a 10;55,9;0;0;0
-HRAD;fevereiro;2022;III;11 a 5 ;73,1;0;0;0
-HRAD;fevereiro;2022;IV;> 15;100;0;0;0
-HRAD;março;2022;I;0 a 5;9,3;10;0;0,93
-HRAD;março;2022;II;6 a 10;55,9;2;1;1,118
-HRAD;março;2022;III;11 a 5 ;73,1;2;1;1,462
-HRAD;março;2022;IV;> 15;100;1;1;1
-HRJP;janeiro;2022;I;0 a 5;9,3;1;0;0,09
-HRJP;janeiro;2022;II;6 a 10;55,9;2;0;1,12
-HRJP;janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
-HRJP;janeiro;2022;IV;> 15;100;0;0;0
-HRJP;fevereiro;2022;I;0 a 5;9,3;1;0;0,09
-HRJP;fevereiro;2022;II;6 a 10;55,9;2;0;1,12
-HRJP;fevereiro;2022;III;11 a 5 ;73,1;0;0;0
-HRJP;fevereiro;2022;IV;> 15;100;0;0;0
-HRJP;março;2022;I;0 a 5;9,3;0;0;0
-HRJP;março;2022;II;6 a 10;55,9;1;0;0,559
-HRJP;março;2022;III;11 a 5 ;73,1;1;0;0,731
-HRJP;março;2022;IV;> 15;100;1;1;1
-MOV;janeiro;2022;I;0 a 5;9,3;1;0;0,09
-MOV;janeiro;2022;II;6 a 10;55,9;1;0;0,56
-MOV;janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
-MOV;janeiro;2022;IV;> 15;100;0;0;0
-MOV;fevereiro;2022;I;0 a 5;9,3;1;0;0,09
-MOV;fevereiro;2022;II;6 a 10;55,9;4;1;2,24
-MOV;fevereiro;2022;III;11 a 5 ;73,1;0;0;0
-MOV;fevereiro;2022;IV;> 15;100;0;0;0
-MOV;março;2022;I;0 a 5;9,3;0;0;0
-MOV;março;2022;II;6 a 10;55,9;3;0;1,677
-MOV;março;2022;III;11 a 5 ;73,1;2;0;1,462
-MOV;março;2022;IV;> 15;100;0;0;0
+HJK;Janeiro;2022;I;0 a 5;9,3;0;0;0
+HJK;Janeiro;2022;II;6 a 10;55,9;1;0;0,56
+HJK;Janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
+HJK;Janeiro;2022;IV;> 15;100,0;0;0;0
+HJK;Fevereiro;2022;I;0 a 5;9,3;1;0;0,09
+HJK;Fevereiro;2022;II;6 a 10;55,9;2;0;1,12
+HJK;Fevereiro;2022;III;11 a 5 ;73,1;0;0;0
+HJK;Fevereiro;2022;IV;> 15;100,0;0;0;0
+HJK;Março;2022;I;0 a 5;9,3;0;0;0
+HJK;Março;2022;II;6 a 10;55,9;1;0;0,56
+HJK;Março;2022;III;11 a 5 ;73,1;1;1;0,73
+HJK;Março;2022;IV;> 15;100,0;0;0;0
+HJK;Abril;2022;I;0 a 5;9,3;0;0;0
+HJK;Abril;2022;II;6 a 10;55,9;0;0;0
+HJK;Abril;2022;III;11 a 5 ;73,1;0;0;0
+HJK;Abril;2022;IV;> 15;100,0;0;0;0
+HRAD;Janeiro;2022;I;0 a 5;9,3;8;1;0,74
+HRAD;Janeiro;2022;II;6 a 10;55,9;3;1;1,68
+HRAD;Janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
+HRAD;Janeiro;2022;IV;> 15;100,0;0;0;0
+HRAD;Fevereiro;2022;I;0 a 5;9,3;8;0;0,74
+HRAD;Fevereiro;2022;II;6 a 10;55,9;0;0;0
+HRAD;Fevereiro;2022;III;11 a 5 ;73,1;0;0;0
+HRAD;Fevereiro;2022;IV;> 15;100,0;0;0;0
+HRAD;Março;2022;I;0 a 5;9,3;10;0;0,93
+HRAD;Março;2022;II;6 a 10;55,9;2;1;1,12
+HRAD;Março;2022;III;11 a 5 ;73,1;2;1;1,46
+HRAD;Março;2022;IV;> 15;100,0;1;1;1
+HRAD;Abril;2022;I;0 a 5;9,3;9;0;0,84
+HRAD;Abril;2022;II;6 a 10;55,9;0;0;0
+HRAD;Abril;2022;III;11 a 5 ;73,1;1;1;0,73
+HRAD;Abril;2022;IV;> 15;100,0;0;0;0
+HRJP;Janeiro;2022;I;0 a 5;9,3;1;0;0,09
+HRJP;Janeiro;2022;II;6 a 10;55,9;2;0;1,12
+HRJP;Janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
+HRJP;Janeiro;2022;IV;> 15;100,0;0;0;0
+HRJP;Fevereiro;2022;I;0 a 5;9,3;1;0;0,09
+HRJP;Fevereiro;2022;II;6 a 10;55,9;2;0;1,12
+HRJP;Fevereiro;2022;III;11 a 5 ;73,1;0;0;0
+HRJP;Fevereiro;2022;IV;> 15;100,0;0;0;0
+HRJP;Março;2022;I;0 a 5;9,3;0;0;0
+HRJP;Março;2022;II;6 a 10;55,9;1;0;0,56
+HRJP;Março;2022;III;11 a 5 ;73,1;1;0;0,73
+HRJP;Março;2022;IV;> 15;100,0;1;1;1
+HRJP;Abril;2022;I;0 a 5;9,3;0;0;0
+HRJP;Abril;2022;II;6 a 10;55,9;1;1;0,56
+HRJP;Abril;2022;III;11 a 5 ;73,1;0;0;0
+HRJP;Abril;2022;IV;> 15;100,0;0;0;0
+MOV;Janeiro;2022;I;0 a 5;9,3;1;0;0,09
+MOV;Janeiro;2022;II;6 a 10;55,9;1;0;0,56
+MOV;Janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
+MOV;Janeiro;2022;IV;> 15;100,0;0;0;0
+MOV;Fevereiro;2022;I;0 a 5;9,3;1;0;0,09
+MOV;Fevereiro;2022;II;6 a 10;55,9;4;1;2,24
+MOV;Fevereiro;2022;III;11 a 5 ;73,1;0;0;0
+MOV;Fevereiro;2022;IV;> 15;100,0;0;0;0
+MOV;Março;2022;I;0 a 5;9,3;0;0;0
+MOV;Março;2022;II;6 a 10;55,9;3;0;1,68
+MOV;Março;2022;III;11 a 5 ;73,1;2;0;1,46
+MOV;Março;2022;IV;> 15;100,0;0;0;0
+MOV;Abril;2022;I;0 a 5;9,3;0;0;0
+MOV;Abril;2022;II;6 a 10;55,9;5;1;2,8
+MOV;Abril;2022;III;11 a 5 ;73,1;0;0;0
+MOV;Abril;2022;IV;> 15;100,0;0;0;0
