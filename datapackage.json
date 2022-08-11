@@ -60,10 +60,16 @@
   "description": "CRIB",
   "homepage": "https://github.com/fhemig",
   "owner_org": "fundacao-hospitalar-do-estado-de-minas-gerais-fhemig",
+  "frequência de atualização":"mensal",
+   "temporal": {
+    "start": "2018-01-01",
+    "end": "2022-06-30"
+  },
   "contributors": [
     {
       "title": "Maristela Guimarães Cáfaro Ferreira",
-      "role": "author"
+      "role": "author",
+      "email": "gtgi.codi@fhemig.mg.gov.br"
     }
   ],
   "licenses": [
