@@ -35,6 +35,10 @@ HJK;Setembro;2022;I;0 a 5;9,3;0;0;0
 HJK;Setembro;2022;II;6 a 10;55,9;1;0;0,56
 HJK;Setembro;2022;III;11 a 5 ;73,1;0;0;0
 HJK;Setembro;2022;IV;> 15;100;0;0;0
+HJK;Outubro;2022;I;0 a 5;9,3;0;0;0
+HJK;Outubro;2022;II;6 a 10;55,9;1;0;0,56
+HJK;Outubro;2022;III;11 a 5 ;73,1;0;0;0
+HJK;Outubro;2022;IV;> 15;100;0;0;0
 HRAD;Janeiro;2022;I;0 a 5;9,3;8;1;0,74
 HRAD;Janeiro;2022;II;6 a 10;55,9;3;1;1,68
 HRAD;Janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
@@ -71,6 +75,10 @@ HRAD;Setembro;2022;I;0 a 5;9,3;9;0;0,84
 HRAD;Setembro;2022;II;6 a 10;55,9;0;0;0
 HRAD;Setembro;2022;III;11 a 5 ;73,1;0;0;0
 HRAD;Setembro;2022;IV;> 15;100;2;2;2
+HRAD;Outubro;2022;I;0 a 5;9,3;6;0;0,56
+HRAD;Outubro;2022;II;6 a 10;55,9;3;1;1,68
+HRAD;Outubro;2022;III;11 a 5 ;73,1;0;0;0
+HRAD;Outubro;2022;IV;> 15;100;0;0;0
 HRJP;Janeiro;2022;I;0 a 5;9,3;1;0;0,09
 HRJP;Janeiro;2022;II;6 a 10;55,9;2;0;1,12
 HRJP;Janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
@@ -107,6 +115,10 @@ HRJP;Setembro;2022;I;0 a 5;9,3;1;0;0,09
 HRJP;Setembro;2022;II;6 a 10;55,9;3;0;1,68
 HRJP;Setembro;2022;III;11 a 5 ;73,1;0;0;0
 HRJP;Setembro;2022;IV;> 15;100;2;2;2
+HRJP;Outubro;2022;I;0 a 5;9,3;1;0;0,09
+HRJP;Outubro;2022;II;6 a 10;55,9;2;0;1,12
+HRJP;Outubro;2022;III;11 a 5 ;73,1;2;1;1,46
+HRJP;Outubro;2022;IV;> 15;100;0;0;0
 MOV;Janeiro;2022;I;0 a 5;9,3;1;0;0,09
 MOV;Janeiro;2022;II;6 a 10;55,9;1;0;0,56
 MOV;Janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
@@ -143,3 +155,7 @@ MOV;Setembro;2022;I;0 a 5;9,3;0;0;0
 MOV;Setembro;2022;II;6 a 10;55,9;2;0;1,12
 MOV;Setembro;2022;III;11 a 5 ;73,1;1;0;0,73
 MOV;Setembro;2022;IV;> 15;100;0;0;0
+MOV;Outubro;2022;I;0 a 5;9,3;0;0;0
+MOV;Outubro;2022;II;6 a 10;55,9;1;0;0,56
+MOV;Outubro;2022;III;11 a 5 ;73,1;1;0;0,73
+MOV;Outubro;2022;IV;> 15;100;0;0;0
