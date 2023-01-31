@@ -43,6 +43,10 @@ HJK;Novembro;2022;I;0 a 5;9,3;1;0;0,09
 HJK;Novembro;2022;II;6 a 10;55,9;0;0;0
 HJK;Novembro;2022;III;11 a 5 ;73,1;0;0;0
 HJK;Novembro;2022;IV;> 15;100;0;0;0
+HJK;Dezembro;2022;I;0 a 5;9,3;0;0;0
+HJK;Dezembro;2022;II;6 a 10;55,9;0;0;0
+HJK;Dezembro;2022;III;11 a 5 ;73,1;2;0;1,46
+HJK;Dezembro;2022;IV;> 15;100;0;0;0
 HRAD;Janeiro;2022;I;0 a 5;9,3;8;1;0,74
 HRAD;Janeiro;2022;II;6 a 10;55,9;3;1;1,68
 HRAD;Janeiro;2022;III;11 a 5 ;73,1;1;0;0,73
@@ -87,6 +91,10 @@ HRAD;Novembro;2022;I;0 a 5;9,3;12;0;1,12
 HRAD;Novembro;2022;II;6 a 10;55,9;2;1;1,12
 HRAD;Novembro;2022;III;11 a 5 ;73,1;1;1;0,73
 HRAD;Novembro;2022;IV;> 15;100;0;0;0
+HRAD;Dezembro;2022;I;0 a 5;9,3;10;1;0,93
+HRAD;Dezembro;2022;II;6 a 10;55,9;1;1;0,56
+HRAD;Dezembro;2022;III;11 a 5 ;73,1;0;0;0
+HRAD;Dezembro;2022;IV;> 15;100;0;0;0
 HRJP;Janeiro;2022;I;0 a 5;9,3;1;0;0,09
 HRJP;Janeiro;2022;II;6 a 10;55,9;2;0;1,12
 HRJP;Janeiro;2022;III;11 a 5 ;73,1;1;1;0,73
@@ -175,3 +183,7 @@ MOV;Novembro;2022;I;0 a 5;9,3;2;0;0,19
 MOV;Novembro;2022;II;6 a 10;55,9;0;0;0
 MOV;Novembro;2022;III;11 a 5 ;73,1;4;1;2,92
 MOV;Novembro;2022;IV;> 15;100;0;0;0
+MOV;Dezembro;2022;I;0 a 5;9,3;2;0;0,19
+MOV;Dezembro;2022;II;6 a 10;55,9;2;0;1,12
+MOV;Dezembro;2022;III;11 a 5 ;73,1;2;0;1,46
+MOV;Dezembro;2022;IV;> 15;100;0;0;0
