@@ -39,6 +39,10 @@ HJK;Outubro;2024;I;0 a 5;9,3;1;1;0,09
 HJK;Outubro;2024;II;6 a 10;55,9;2;1;1,12
 HJK;Outubro;2024;III;11 a 5 ;73,1;1;0;0,73
 HJK;Outubro;2024;IV;> 15;100;0;0;0
+HJK;Novembro;2024;I;0 a 5;9,3;1;0;0,09
+HJK;Novembro;2024;II;6 a 10;55,9;1;0;0,56
+HJK;Novembro;2024;III;11 a 5 ;73,1;0;0;0
+HJK;Novembro;2024;IV;> 15;100;0;0;0
 HRAD;Janeiro;2024;I;0 a 5;9,3;5;1;0,46
 HRAD;Janeiro;2024;II;6 a 10;55,9;3;1;1,68
 HRAD;Janeiro;2024;III;11 a 5 ;73,1;0;0;0
@@ -79,6 +83,10 @@ HRAD;Outubro;2024;I;0 a 5;9,3;13;1;1,21
 HRAD;Outubro;2024;II;6 a 10;55,9;3;1;1,68
 HRAD;Outubro;2024;III;11 a 5 ;73,1;0;0;0
 HRAD;Outubro;2024;IV;> 15;100;1;1;1
+HRAD;Novembro;2024;I;0 a 5;9,3;11;1;1,02
+HRAD;Novembro;2024;II;6 a 10;55,9;1;1;0,56
+HRAD;Novembro;2024;III;11 a 5 ;73,1;0;0;0
+HRAD;Novembro;2024;IV;> 15;100;0;0;0
 HRJP;Janeiro;2024;I;0 a 5;9,3;4;0;0,37
 HRJP;Janeiro;2024;II;6 a 10;55,9;3;1;1,68
 HRJP;Janeiro;2024;III;11 a 5 ;73,1;0;0;0
@@ -119,6 +127,10 @@ HRJP;Outubro;2024;I;0 a 5;9,3;3;1;0,28
 HRJP;Outubro;2024;II;6 a 10;55,9;3;0;1,68
 HRJP;Outubro;2024;III;11 a 5 ;73,1;1;1;0,73
 HRJP;Outubro;2024;IV;> 15;100;0;0;0
+HRJP;Novembro;2024;I;0 a 5;9,3;0;0;0
+HRJP;Novembro;2024;II;6 a 10;55,9;0;0;0
+HRJP;Novembro;2024;III;11 a 5 ;73,1;0;0;0
+HRJP;Novembro;2024;IV;> 15;100;0;0;0
 MOV;Janeiro;2024;I;0 a 5;9,3;0;0;0
 MOV;Janeiro;2024;II;6 a 10;55,9;5;0;2,8
 MOV;Janeiro;2024;III;11 a 15 ;73,1;1;0;0,73
@@ -159,3 +171,7 @@ MOV;Outubro;2024;I;0 a 5;9,3;1;0;0,09
 MOV;Outubro;2024;II;6 a 10;55,9;3;1;1,68
 MOV;Outubro;2024;III;11 a 15 ;73,1;4;3;2,92
 MOV;Outubro;2024;IV;> 15;100;0;0;0
+MOV;Novembro;2024;I;0 a 5;9,3;2;0;0,19
+MOV;Novembro;2024;II;6 a 10;55,9;5;1;2,8
+MOV;Novembro;2024;III;11 a 15 ;73,1;0;0;0
+MOV;Novembro;2024;IV;> 15;100;1;1;1
