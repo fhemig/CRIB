@@ -1,6 +1,6 @@
 unidade;mes;ano;grau;escore;predicao_obito;saidas_rn;obitos_ocorridos;obitos_esperados
 HJK;Janeiro;2025;I;0 a 5;9,3;3;0;0,28
-HJK;Janeiro;2025;II;6 a 10;55,9;0;0;0
+HJK;Janeiro;2025;II;6 a 10;56;0;0;0
 HJK;Janeiro;2025;III;11 a 5 ;73,1;0;0;0
 HJK;Janeiro;2025;IV;> 15;100;0;0;0
 HJK;Fevereiro;2025;I;0 a 5;9,3;1;0;0,09
@@ -31,6 +31,10 @@ HJK;Agosto;2025;I;0 a 5;9,3;0;0;0
 HJK;Agosto;2025;II;6 a 10;55,9;2;0;1,12
 HJK;Agosto;2025;III;11 a 5 ;73,1;2;1;1,46
 HJK;Agosto;2025;IV;> 15;100;0;0;0
+HJK;Setembro;2025;I;0 a 5;9,3;0;0;0
+HJK;Setembro;2025;II;6 a 10;55,9;0;0;0
+HJK;Setembro;2025;III;11 a 5 ;73,1;0;0;0
+HJK;Setembro;2025;IV;> 15;100;0;0;0
 HRAD;Janeiro;2025;I;0 a 5;9,3;12;0;1,12
 HRAD;Janeiro;2025;II;6 a 10;55,9;2;1;1,12
 HRAD;Janeiro;2025;III;11 a 5 ;73,1;2;1;1,46
@@ -63,6 +67,10 @@ HRAD;Agosto;2025;I;0 a 5;9,3;8;1;0,74
 HRAD;Agosto;2025;II;6 a 10;55,9;1;0;0,56
 HRAD;Agosto;2025;III;11 a 5 ;73,1;0;0;0
 HRAD;Agosto;2025;IV;> 15;100;0;0;0
+HRAD;Setembro;2025;I;0 a 5;9,3;12;0;1,12
+HRAD;Setembro;2025;II;6 a 10;55,9;1;0;0,56
+HRAD;Setembro;2025;III;11 a 5 ;73,1;0;0;0
+HRAD;Setembro;2025;IV;> 15;100;0;0;0
 HRJP;Janeiro;2025;I;0 a 5;9,3;2;0;0,19
 HRJP;Janeiro;2025;II;6 a 10;55,9;1;0;0,56
 HRJP;Janeiro;2025;III;11 a 5 ;73,1;0;0;0
@@ -95,6 +103,10 @@ HRJP;Agosto;2025;I;0 a 5;9,3;0;0;0
 HRJP;Agosto;2025;II;6 a 10;55,9;2;0;1,12
 HRJP;Agosto;2025;III;11 a 5 ;73,1;1;0;0,73
 HRJP;Agosto;2025;IV;> 15;100;1;1;1
+HRJP;Setembro;2025;I;0 a 5;9,3;0;0;0
+HRJP;Setembro;2025;II;6 a 10;55,9;2;0;1,12
+HRJP;Setembro;2025;III;11 a 5 ;73,1;1;0;0,73
+HRJP;Setembro;2025;IV;> 15;100;0;0;0
 MOV;Janeiro;2025;I;0 a 5;9,3;4;2;0,37
 MOV;Janeiro;2025;II;6 a 10;55,9;5;3;2,8
 MOV;Janeiro;2025;III;11 a 15 ;73,1;2;0;1,46
@@ -127,3 +139,7 @@ MOV;Agosto;2025;I;0 a 5;9,3;0;0;0
 MOV;Agosto;2025;II;6 a 10;55,9;4;0;2,24
 MOV;Agosto;2025;III;11 a 15 ;73,1;2;0;1,46
 MOV;Agosto;2025;IV;> 15;100;0;0;0
+MOV;Setembro;2025;I;0 a 5;9,3;1;0;0,09
+MOV;Setembro;2025;II;6 a 10;55,9;1;1;0,56
+MOV;Setembro;2025;III;11 a 15 ;73,1;2;1;1,46
+MOV;Setembro;2025;IV;> 15;100;0;0;0
